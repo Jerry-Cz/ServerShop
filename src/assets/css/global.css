@@ -6,4 +6,38 @@ body,
     height: 100%;
     margin: 0;
     padding: 0;
+    min-width: 1300px;
+}
+
+
+/* .el-breadcrumb__inner {
+    color: black;
+} */
+
+.el-breadcrumb {
+    margin-bottom: 15px;
+}
+
+.el-card__body {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.el-table {
+    margin-top: 12px;
+}
+
+.el-cascader-panel {
+    height: 300px;
+}
+
+.el-steps {
+    margin: 15px 0;
+}
+
+.el-step__title {
+    font-size: 13px !important;
+}
+
+.ql-toolbar.ql-snow+.ql-container.ql-snow {
+    height: 300px;
 }
